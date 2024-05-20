@@ -1,1 +1,1 @@
-My projects for AP COmputer Science Principles. 
+My projects for AP Computer Science Principles. 
